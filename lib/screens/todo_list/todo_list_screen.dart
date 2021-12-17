@@ -1,7 +1,7 @@
 // TODO Complete this file. This class should receive data from the main(). This class should pass data to the classes Bar and Body
 
 import 'package:flutter/material.dart';
-
+import '../../models/task.dart';
 import '../../models/todo.dart';
 import 'bar.dart';
 import 'body.dart';
